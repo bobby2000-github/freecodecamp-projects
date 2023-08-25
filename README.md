@@ -1,2 +1,1 @@
-# freecodecamp-projects
-My freecodecamp projects
+Here are my freecodecamp-projects I works on my own
